@@ -81,4 +81,4 @@ pip3 install -r requirements.txt
 
 
 ### Services Demo
-![Alt Text](code/demo.gif)
+![Alt Text](code/flask-app/static/images/demo.gif)

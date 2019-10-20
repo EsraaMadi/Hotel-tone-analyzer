@@ -10,7 +10,7 @@ Interpreting a text is not an easy thing to do.  showing you how much anger, joy
 
 A quick example, the sentence, "Sorry, can't make it." has a 50% likelihood of sadness. But if you change the period to an exclamation point, the likelihood of sadness drops to 38% and anger becomes the most dominant emotion.
 
-----
+<br>
 **Tone Analyzer** is a service determines the emotional tone behind a series of words, used to gain an understanding of the attitudes, opinions and emotions expressed within an online mention.
 
 
@@ -82,4 +82,4 @@ pip3 install -r requirements.txt
 
 ### Services Demo
 
-![Alt Text](https://media.giphy.com/media/jUcnADJTrtAwLc2F0Z/giphy.gif)
+![Alt Text](code/flask-app/static/images/demo.gif)

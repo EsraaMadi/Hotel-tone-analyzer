@@ -82,5 +82,10 @@ pip3 install -r requirements.txt
 
 ### Services Demo
 
-![Alt Text](code/flask-app/static/images/demo.gif)
-![Alt Text](code/flask-app/static/images/demo_v2.mov)
+- **Hotel Tone Analyzer**
+
+![Alt Text](code/flask-app/static/images/app-demo1.gif)
+
+- **Hotel Indexer**
+
+![Alt Text](code/flask-app/static/images/app-demo2.gif)

@@ -11,6 +11,7 @@ Interpreting a text is not an easy thing to do.  showing you how much anger, joy
 A quick example, the sentence, "Sorry, can't make it." has a 50% likelihood of sadness. But if you change the period to an exclamation point, the likelihood of sadness drops to 38% and anger becomes the most dominant emotion.
 
 <br>
+
 **Tone Analyzer** is a service determines the emotional tone behind a series of words, used to gain an understanding of the attitudes, opinions and emotions expressed within an online mention.
 
 
@@ -27,9 +28,9 @@ To have an insight on the service and tones, try this [web interface](https://to
 ## Components / Services Types:
 In this project, we are going to implement and provide two:
 1. Hotel tone analyzer:
-  - Using this service, you can pass a hotel name and get the normalized tone analysis for all its reviews. We cover these tones: anger, fear, joy, and sadness (emotional tones). analytical, confident, and tentative (language tones).
+    - Using this service, you can pass a hotel name and get the normalized tone analysis for all its reviews. We cover these tones: anger, fear, joy, and sadness (emotional tones). analytical, confident, and tentative (language tones).
 2. Hotel indexer:
-  - By hitting this service, you can index all hotels data using Elasticsearch
+    - By hitting this service, you can index all hotels data using Elasticsearch
 ---
 <br>
 

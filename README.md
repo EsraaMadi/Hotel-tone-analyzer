@@ -26,7 +26,7 @@ To have an insight on the service and tones, try this [web interface](https://to
 <br>
 
 ## Components / Services Types:
-In this project, we are going to implement and provide two:
+In this project, we are going to implement and provide two services:
 1. Hotel tone analyzer:
     - Using this service, you can pass a hotel name and get the normalized tone analysis for all its reviews. We cover these tones: anger, fear, joy, and sadness (emotional tones). analytical, confident, and tentative (language tones).
 2. Hotel indexer:

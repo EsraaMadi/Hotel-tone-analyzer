@@ -36,11 +36,11 @@ In this project, we are going to implement and provide two:
 
 ## Solution Structure:
 1. Preprocess the data to be in a format that could be provided for analyzer or indexer.
-  2. [Hotel tone analyzer](https://github.com/EsraaMadi/Hotel-tone-analyzer/blob/master/code/Hotel%20Analyzer.ipynb):
+2. [Hotel tone analyzer](https://github.com/EsraaMadi/Hotel-tone-analyzer/blob/master/code/Hotel%20Analyzer.ipynb):
     - Use IBM Watson python lib to get tones for each review of hotels in our Datasets.
     - For each hotel, calculate the normalized score for the detected tones, aggregate them all and get a final score.
     - Show the final tones scores as a bar chart.
-  3. [Hotel indexer](https://github.com/EsraaMadi/Hotel-tone-analyzer/blob/master/code/Hotel%20Indexer.ipynb):
+3. [Hotel indexer](https://github.com/EsraaMadi/Hotel-tone-analyzer/blob/master/code/Hotel%20Indexer.ipynb):
     - Create one document for each hotel that contains all hotel data plus obtained tones from IBM API.
     - Use Elasticsearch to index all documents from the previous step.
 4. Provide the above two services as [web service](https://github.com/EsraaMadi/Hotel-tone-analyzer/tree/master/code/flask-app) using flask.

@@ -71,7 +71,7 @@ pip3 install -r requirements.txt
 - [IBM Watson python lib](https://pypi.org/project/ibm-watson/) - Library to understand emotions and communication style in text.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open-source, RESTful, distributed search and analytics engine
 - [Flask](https://flask-doc.readthedocs.io/en/latest/)  - Web framework, a third-party Python library used for developing web applications.
-- [plotly](https://pypi.org/project/plotly/) - Open-source visualization libraries for R, Python, and JavaScript.
+- [Plotly](https://pypi.org/project/plotly/) - Open-source visualization libraries for R, Python, and JavaScript.
 
 ### How Run The Services
 1. Clone repo
